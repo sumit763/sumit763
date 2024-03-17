@@ -9,10 +9,14 @@
 - 📫 How to reach me **sumityadav08449@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-
+<h3 align="left">Project</h3>
+<h5>Bubble pop Game [<i>Html css js]</i> </h5>
+<p><b>The Bubble Pop Challenge</b> "-Redesigned website with responsive design for seamless play on all devices, random color bubbles, and a high score leaderboard. based on the principles of event-bubbling and demonstrating frontend development expertise.</p>
+<a href="https://sumit763.github.io/bubble-game/">PLAY</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/sumityadav08449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sumityadav08449" height="30" width="40" /></a>
+ 
 <a href="https://linkedin.com/in/www.linkedin.com/in/sumit-kumar-47021a231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sumit-kumar-47021a231" height="30" width="40" /></a>
 </p>
 

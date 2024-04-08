@@ -13,6 +13,12 @@
 <h5>Bubble pop Game [<i>Html css js]</i> </h5>
 <p><b>The Bubble Pop Challenge</b> "-Redesigned website with responsive design for seamless play on all devices, random color bubbles, and a high score leaderboard. based on the principles of event-bubbling and demonstrating frontend development expertise.</p>
 <a href="https://sumit763.github.io/bubble-game/">PLAY</a>
+<h5>Weather App [<i>Html css js]</i> </h5>
+<p>Developed a responsive weather application using HTML, CSS, and JavaScript.<br>
+    Integrated OpenWeatherMap API for real-time weather data retrieval.<br>
+    Implemented dynamic UI updates for weather information display.<br>
+    Demonstrated proficiency in front-end development, API integration, and responsive design..</p>
+<a href="https://sumit763.github.io/Weather-App/">Click Me</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/sumityadav08449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sumityadav08449" height="30" width="40" /></a>
